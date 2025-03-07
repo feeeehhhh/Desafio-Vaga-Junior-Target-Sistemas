@@ -1,0 +1,17 @@
+[
+    {"dia": 1, "valor": 2500},
+    {"dia": 2, "valor": 3000},
+    {"dia": 3, "valor": 0},
+    {"dia": 4, "valor": 5000},
+    {"dia": 5, "valor": 0},
+    {"dia": 6, "valor": 7000},
+    {"dia": 7, "valor": 8000},
+    {"dia": 8, "valor": 0},
+    {"dia": 9, "valor": 2500},
+    {"dia": 10, "valor": 3200},
+    {"dia": 11, "valor": 500},
+    {"dia": 12, "valor": 6000},
+    {"dia": 13, "valor": 0},
+    {"dia": 14, "valor": 7000},
+    {"dia": 15, "valor": 1000}
+]
